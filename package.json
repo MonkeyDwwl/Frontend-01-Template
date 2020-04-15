@@ -1,0 +1,13 @@
+{
+  "name": "frontend01",
+  "version": "1.0.0",
+  "private": true,
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.1.0"
+  }
+}
